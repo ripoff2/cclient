@@ -4,7 +4,7 @@ import (
 	"time"
 
 	http "github.com/Carcraftz/fhttp"
-	 "github.com/Carcraftz/fhttp/cookiejar"
+	"github.com/Carcraftz/fhttp/cookiejar"
 
 	"golang.org/x/net/proxy"
 
